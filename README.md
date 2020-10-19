@@ -4,10 +4,12 @@
 
 🌱 I’m currently learning Node.js <br>
 💬 Ask me about web developmment.<br>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-utkarshdubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh2504/)](https://www.linkedin.com/in/utkarsh2504/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-utkarshdubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh2504/)](https://www.linkedin.com/in/utkarsh2504/)<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-dubey&show_icons=true&cache_seconds=86400&theme=nightowl"><br>
 
 ## Tools and Languages
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /><br>
-<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-Python-orange" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Django-yellowgreen" /><br>
-<img scr="https://github-readme-stats.vercel.app/api?username=utkarsh-dubey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
+<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-Python-orange" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Django-yellowgreen"/>

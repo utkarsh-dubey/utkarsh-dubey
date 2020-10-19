@@ -9,6 +9,5 @@
 ## Tools and Languages
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /><br>
-<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-Python-orange" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Django-yellowgreen" />
-
-
+<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-Python-orange" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Django-yellowgreen" /><br>
+<img scr="https://github-readme-stats.vercel.app/api?username=utkarsh-dubey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">

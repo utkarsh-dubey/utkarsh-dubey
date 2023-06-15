@@ -22,6 +22,5 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-violet?style=social&logo=mongodb&link=https://github.com/utkarsh-dubey)](https://github.com/utkarsh-dubey)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-dubey&show_icons=true&theme=radical&layout=compact&count_private=true&langs_count=6"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-dubey&show_icons=true&cache_seconds=86400&theme=nightowl"><br>
 
 

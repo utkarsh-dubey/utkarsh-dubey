@@ -2,8 +2,8 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-🌱 I’m currently learning something. <br>
-💬 Ask me about web developmment.<br>
+🌱 I’m currently learning to build scalable products. <br>
+💬 Ask me about web development.<br>
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/utkarsh2504/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:utkarsh19213@iiitd.ac.in)](mailto:utkarsh19213@iiitd.ac.in)
 <br>
